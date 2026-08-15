@@ -1,7 +1,0 @@
-torch>=2.0
-transformers>=4.35
-datasets>=2.14
-bitsandbytes>=0.41
-accelerate>=0.24
-matplotlib>=3.7
-pandas>=2.0
